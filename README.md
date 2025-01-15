@@ -25,33 +25,33 @@ The top countries with the most power plants are major industrialized nations, r
 ## Average MW Capacity for Each Fuel Type
 Nuclear power, though limited in number, contributes significantly to energy production due to its high capacity. This chart compares the average capacities of different fuel types. Nuclear power plants have the highest average capacity at 2,091 MW, followed by coal (843 MW) and gas (373 MW).
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Average MW Capacity By Fuel Type](./Visualizations/Average%20Capacity%20By%20Fuel%20Type.png)
 
 ## Distribution of Fuel Types for Power Plants
 Renewable energy sources like solar, hydro, and wind dominate the global power plant landscape, highlighting the shift towards sustainable energy. Solar power accounts for 30.5% of power plants, followed by hydro (20.5%) and wind (15.3%).
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Distribution of Fuel Types for Plants](./Visualizations/Distribution%20of%20Fuel%20Types%20for%20Plants.png)
 
-## Underperforming Power Plants
+## Underperforming Power Plant Regions
 
 This chart identifies power plants with a capacity of less than 50 MW, considered underperforming. All nine locations of these plants are in economically disadvantaged regions. Underperformance could be attributed to limited energy demands or resource constraints in these regions.
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Underperforming Power Plant Regions](./Visualizations/Low%20Capacity%20Countreis.png)
 
 ## Commissioning Trend Over the Years
 Advancements in technology have enabled higher capacity plants, reflecting a focus on efficiency and scalability. This chart shows the commissioning trends of power plants from 2000 to 2020. While the number of new plants remained steady, their capacities increased significantly during this period.
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Commissioning Trends over the Years](./Visualizations/Commissioning%20Trends%20over%20the%20Years.png)
 
 ## Most Used Fuel Types in Power Plants
 Despite the shift towards renewable energy, fossil fuels still play a significant role in global power generation. This chart indicates that coal is the most preferred fuel type (26.7%), followed by oil (20.0%) and natural gas (13.3%).
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Most Used Fuel Types in Power Plants](./Visualizations/Percentage%20of%20Plants%20by%20fuel%20type.png)
 
 ## Capacity Distribution Across Fuel Types
 Traditional fossil fuels dominate in terms of capacity, emphasizing their continued importance in meeting global energy needs. A box plot visualizes the capacity distribution for various fuel types. Coal, oil, and natural gas exhibit the highest capacities.
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Capacity Distribution Across Fuel Types](./Visualizations/Capacity%20Distribution%20by%20Fuel%20Type.png)
 
 ## Key Findings
 - The United States, China, and the United Kingdom lead in the number of power plants, reflecting their industrial capacity and energy demands.
@@ -61,24 +61,3 @@ Traditional fossil fuels dominate in terms of capacity, emphasizing their contin
 - While the total number of power plants commissioned has remained steady, their capacities have significantly increased since 2000, reflecting advancements in technology.
 - Coal remains the most preferred fuel type, followed by oil and natural gas, despite the rise in renewable energy sources.
 - Fossil fuels like coal, oil, and natural gas dominate in terms of capacity, highlighting their ongoing significance in global energy production.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
