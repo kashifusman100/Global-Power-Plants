@@ -1,4 +1,5 @@
 # Global-Power-Plants
+## Project Description
 This project involves analyzing the Global Power Plants data, which contains information on power plants worldwide, including their locations, capacities, primary fuel types, and commissioning years. The analysis aims to uncover trends, insights, and patterns in the global energy landscape.
 
 ## Data source:
