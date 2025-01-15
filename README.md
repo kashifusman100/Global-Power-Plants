@@ -27,11 +27,6 @@ Nuclear power, though limited in number, contributes significantly to energy pro
 
 ![Average MW Capacity By Fuel Type](./Visualizations/Average%20Capacity%20By%20Fuel%20Type.png)
 
-## Distribution of Fuel Types for Power Plants
-Renewable energy sources like solar, hydro, and wind dominate the global power plant landscape, highlighting the shift towards sustainable energy. Solar power accounts for 30.5% of power plants, followed by hydro (20.5%) and wind (15.3%).
-
-![Distribution of Fuel Types for Plants](./Visualizations/Distribution%20of%20Fuel%20Types%20for%20Plants.png)
-
 ## Underperforming Power Plant Regions
 
 This chart identifies power plants with a capacity of less than 50 MW, considered underperforming. All nine locations of these plants are in economically disadvantaged regions. Underperformance could be attributed to limited energy demands or resource constraints in these regions.
@@ -39,7 +34,7 @@ This chart identifies power plants with a capacity of less than 50 MW, considere
 ![Underperforming Power Plant Regions](./Visualizations/Low%20Capacity%20Countreis.png)
 
 ## Commissioning Trend Over the Years
-Advancements in technology have enabled higher capacity plants, reflecting a focus on efficiency and scalability. This chart shows the commissioning trends of power plants from 2000 to 2020. While the number of new plants remained steady, their capacities increased significantly during this period.
+Advancements in technology have enabled higher capacity plants, reflecting a focus on efficiency and scalability. This chart shows the commissioning trends of power plants from 1900 to 2020. While the number of new plants remained steady, their capacities increased significantly from 2000 to 2020.
 
 ![Commissioning Trends over the Years](./Visualizations/Commissioning%20Trends%20over%20the%20Years.png)
 
@@ -55,7 +50,6 @@ Traditional fossil fuels dominate in terms of capacity, emphasizing their contin
 
 ## Key Findings
 - The United States, China, and the United Kingdom lead in the number of power plants, reflecting their industrial capacity and energy demands.
-- Solar power accounts for the highest proportion of power plants globally, signaling a shift toward renewable energy.
 - Nuclear power plants have the highest average capacity, underscoring their efficiency in energy production.
 - Underperforming power plants are concentrated in economically disadvantaged regions, likely due to lower energy demands and resource limitations.
 - While the total number of power plants commissioned has remained steady, their capacities have significantly increased since 2000, reflecting advancements in technology.
