@@ -20,7 +20,7 @@ With the global push towards renewable energy and sustainable practices, underst
 ## Top 10 Countries with Most Power Plants
 The top countries with the most power plants are major industrialized nations, reflecting their energy demands and infrastructure capabilities. The United States leads with 9,833 power plants, followed by China (4,235) and the United Kingdom (2,751). Russia ranks 10th with 545 power plants.
 
-![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+![Top 10 Countries with Most Power Plants](./Visualizations/Top%2010%20Countries%20with%20Most%20PowerPlants.png)
 
 ## Average MW Capacity for Each Fuel Type
 Nuclear power, though limited in number, contributes significantly to energy production due to its high capacity. This chart compares the average capacities of different fuel types. Nuclear power plants have the highest average capacity at 2,091 MW, followed by coal (843 MW) and gas (373 MW).
