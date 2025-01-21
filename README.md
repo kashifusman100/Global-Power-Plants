@@ -6,8 +6,8 @@ This project involves analyzing the Global Power Plants data, which contains inf
 - global_power_plant_database.csv
 
 ## Software:
-- Python 3.11
-- Visual Studio Code 1.95
+- Python
+- Visual Studio Code
 - Jupyter Notebook
 
 ## Problem Statement
